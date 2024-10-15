@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/nIo2lP3T)
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/W8Yy68_C)
 
 ## UoI-CSE-MYY505 lab01
 
@@ -26,4 +26,4 @@ Please **DO NOT MODIFY** any other files.
 ## Notes
 * Make sure your solution assembles and runs.
 * Make sure your last push is before the deadline. Your last push will be considered as your final submission.
-* Post questions on [Edstem!](https://edstem.org/us/courses/67636/discussion/).
+* Post questions on [Edstem!](https://edstem.org/us/courses/47566/discussion/).
